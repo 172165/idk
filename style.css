@@ -1,0 +1,53 @@
+
+p{
+	
+
+color : white;
+background-color : black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 80px;
+  text-decoration: none;
+  font-size: 30px
+}
+
+li a:hover {
+  background-color: black;
+}
+}
+h1 {
+	
+	  float: left;
+	  
+	  font-family: Ravie;
+}
+
+
+img {
+	 float: left;
+	
+}
+.h1{
+		  font-family: 'Acme', sans-serif;
+}
+}
+.p{
+		  font-family: 'Acme', sans-serif;
+}
